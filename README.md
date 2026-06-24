@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samikshya Mishra</h1>
 <h3 align="center">A passionate UI/UX designer from Nepal</h3>
 
-- 🔭 I’m currently working as an intern in ZIDIO Development.
+- 🔭 I’m currently working as an  UI/UX intern in ZIDIO Development.
 
 - 🌱 I’m currently learning MERN Stack along with python.
 - 💬 Ask me about **UI,UX,Designing**
