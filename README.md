@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samikshya812@gmail.com**
 
-- ⚡ Fun fact **I think I'm crazyy**
+- ⚡ Fun(Real) fact **I think I'm capable of getting placement in Microsoft & Google**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
