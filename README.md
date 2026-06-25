@@ -4,6 +4,7 @@
 - 🔭 I’m currently working as an  UI/UX intern in ZIDIO Development.
 
 - 🌱 I’m currently learning MERN Stack along with python.
+- I'm a Bsc.CSIT 2nd semester student .
 - 💬 Ask me about **UI,UX,Designing**
 
 - 📫 How to reach me **samikshya812@gmail.com**
