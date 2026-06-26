@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning MERN Stack along with python.
 - I'm a Bsc.CSIT 2nd semester student .
-- 💬 Ask me about **UI,UX,Designing**
 
-- 📫 How to reach me **samikshya812@gmail.com**
 
-- ⚡ Fun(Real) fact **I think I'm capable of getting placement in Microsoft & Google**
+- 📫 How to reach me "samikshya812@gmail.com"
+
+- ⚡ Fun(Real) fact "I think I'm capable of getting placement in Microsoft or Google"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
