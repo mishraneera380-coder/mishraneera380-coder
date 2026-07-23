@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX designer from Nepal</h3>
 
 - 🌱 I’m currently learning MERN Stack along with python.
-- I'm a Bsc.CSIT 2nd semester student .
+-  I'm a Bsc.CSIT 2nd semester student .
 
 
 - 📫 How to reach me "samikshya812@gmail.com"
