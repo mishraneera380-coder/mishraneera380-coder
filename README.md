@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Samikshya Mishra</h1>
-<h3 align="center">A passionate UI/UX designer from Nepal</h3>
+<h3 align="center">A passionate UI/UX designer from Nepal.</h3>
 
 - 🌱 I’m currently learning MERN Stack along with python.
 -  I'm a Bsc.CSIT 2nd semester student .
