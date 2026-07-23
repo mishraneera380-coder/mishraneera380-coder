@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samikshya Mishra</h1>
 <h3 align="center">A passionate UI/UX designer from Nepal</h3>
 
-- 🔭 I’m currently working as an  UI/UX intern in ZIDIO Development.
-
 - 🌱 I’m currently learning MERN Stack along with python.
 - I'm a Bsc.CSIT 2nd semester student .
 
 
 - 📫 How to reach me "samikshya812@gmail.com"
 
-- ⚡ Fun(Real) fact "I think I'm capable of getting placement in Microsoft."
+- ⚡ Fun fact "I'm psycho."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
