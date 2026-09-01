@@ -19,7 +19,7 @@
 
 ###  Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,python,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,python,C++,c" />
 </p>
 
 ---
